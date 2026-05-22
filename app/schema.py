@@ -1,7 +1,7 @@
 from pydantic import BaseModel
 
 class cardio(BaseModel):
-    age : int
+    age_years : int
     height : int
     weight : int
     ap_hi : int

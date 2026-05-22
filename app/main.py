@@ -30,3 +30,4 @@ def predict(data:cardio):
         "Status": "Likely to be Healthy" if prediction == 0 else "Likely to be Unhealthy"
     }
 
+
