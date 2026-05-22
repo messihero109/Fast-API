@@ -6,7 +6,7 @@ class cardio(BaseModel):
     weight : int
     ap_hi : int
     ap_lo : int
-    cholestrol : int
+    cholesterol : int
     gluc : int
     smoke : int
     alco : int

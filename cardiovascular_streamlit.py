@@ -123,7 +123,7 @@ if st.button('Predict Cardio'):
         'height': height,
         'ap_hi' : ap_hi,
         'ap_lo': ap_lo,
-        'cholestrol': cholestrol,
+        'cholesterol': cholestrol,
         'gluc': glucose,
         'smoke': smoke,
         'alco': alcohol,
