@@ -3,3 +3,4 @@ pandas
 joblib
 pydantic
 streamlit
+scikit-learn
